@@ -1,6 +1,6 @@
 # Front-end for Blue Bank
 
-### Used MUI frontend template (Berry Dashboard)
+Used MUI frontend template (Berry Dashboard)
 
 ## To run project:
 
